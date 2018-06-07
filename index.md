@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
   <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-  <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
+
   <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="print">
 
   <title>williewilliamsiii.github.io by williewilliamsiii</title>
