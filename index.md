@@ -18,7 +18,7 @@
     <section id="main_content">
       <h2>CIT Code Portfolio Page</h2>
 
-      <img src="images/www.jpeg" size=150px style="margin:.2em; padding:.2em; border: thin solid; display:block;">
+      <img src="images/www.jpeg" style="margin:.2em; padding:.2em; border: thin solid; display:block;">
 
       <h2>education.github.com</h2>
       <p>We are using <a href="https://education.github.com/">Github's education service</a> to host student repos for webDev courses.</p>
