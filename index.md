@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
 
 <head>
@@ -29,7 +27,7 @@
 
       <img src="images/sunseteugene.jpg" style="margin:.2em; padding:.2em; border: thin solid; display:block;">
 
-      <h2><br>education.github.com</h2>
+      <h2>education.github.com</h2>
       <p>We are using <a href="https://education.github.com/">Github's education service</a> to host student repos for webDev courses.</p>
 
       <h2>UO CIT Minor</h2>
@@ -61,16 +59,18 @@
         <li><a href="http://pages.uoregon.edu/williew/111">CIS 111 Projects</a> (uoregon.edu)</li>
         <li>CIT 281 Projects
           <ul>
-            <li>P1 Project Page (Github)</li>
-            <li>P2 Project Page (Github)</li>
-            <li>P3 Project Page (Github)</li>
+            <li>P1 Project Page</a> (Github)</li>
+            <li>P2 Project Page</a> (Github)</li>
+            <li><a href="ou">P3 Project Page</a> (Github)</li>
             <li><a href="https://uo-cit.github.io/project-4-williewilliamsiii/">P4 Project Page</a> (Github)</li>
-            <li>P5 Project Page (Github)</li>
+            <li>P5 Project Page</a> (Github)</li>
           </ul>
         </li>
-        <li>CIT 381 Projects</li>
+        <li> Coming Soon!</li>
+        <ul><li>CIT 381 Projects</li>
         <li>CIT 382 Projects</li>
         <li>CIT 383 Projects</li>
+        <ul>
       </ul>
 
       <h2>&nbsp;</h2>
