@@ -2,12 +2,10 @@
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
   <title>williewilliamsiii.github.io by williewilliamsiii</title>
-</head>
 
   <header>
     <div class="container">
-      <h1>williewilliamsiii.github.io</h1>
-      <h2>Porfolio of CIT Minor</h2>
+  <h2>Porfolio of CIT Minor</h2>
 
       <section id="downloads">
         <a href="https://github.com/williewilliamsiii" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
@@ -18,7 +16,7 @@
 
   <div class="container">
     <section id="main_content">
-      <h2>Demo CIT Code Portfolio Page</h2>
+      <h2>CIT Code Portfolio Page</h2>
 
       <img src="images/www.jpeg" style="margin:.2em; padding:.2em; border: thin solid; display:block;">
 
@@ -67,8 +65,6 @@
         <li>CIT 383 Projects</li>
         <ul>
       </ul>
-    </section>
-      </div>
       <br>
       <br>
         <img src="images/sunseteugene.jpg" style="margin:.2em; padding:.2em; border: thin solid; display:block;">
