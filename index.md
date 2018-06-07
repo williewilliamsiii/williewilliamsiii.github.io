@@ -1,13 +1,8 @@
-<html>
-
-<head>
   <meta charset='utf-8'>
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
   <title>williewilliamsiii.github.io by williewilliamsiii</title>
 </head>
-
-<body>
 
   <header>
     <div class="container">
@@ -72,16 +67,8 @@
         <li>CIT 383 Projects</li>
         <ul>
       </ul>
-
+    </section>
+      </div>
       <br>
       <br>
         <img src="images/sunseteugene.jpg" style="margin:.2em; padding:.2em; border: thin solid; display:block;">
-
-
-    </section>
-
-  </div>
-
-</body>
-
-</html>
