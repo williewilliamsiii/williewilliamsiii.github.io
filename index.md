@@ -59,8 +59,8 @@
         <li><a href="http://pages.uoregon.edu/williew/111">CIS 111 Projects</a> (uoregon.edu)</li>
         <li>CIT 281 Projects
           <ul>
-            <li>P1 Project Page</a> (Github)</li>
-            <li>P2 Project Page</a> (Github)</li>
+            <li>P1 Project Page (Github)</li>
+            <li>P2 Project Page (Github)</li>
             <li><a href="https://uo-cit.github.io/project-3-williewilliamsiii/">P3 Project Page</a> (Github)</li>
             <li><a href="https://uo-cit.github.io/project-4-williewilliamsiii/">P4 Project Page</a> (Github)</li>
             <li>P5 Project Page (Github)</li>
